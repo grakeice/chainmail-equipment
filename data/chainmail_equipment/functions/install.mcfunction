@@ -1,0 +1,1 @@
+tellraw @a ["\n----------\n",{"text":"[チェーン装備のレシピ] をインストールしました。\n[Chainmal Equipments] has been installed.\n\nCreated by "},{"text":"grakeice","color":"blue"},"\n----------\n"]
